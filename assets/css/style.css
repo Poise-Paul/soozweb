@@ -718,11 +718,11 @@ section {
 
 .cta .cta-btn {
   font-family: "Raleway", sans-serif;
-  font-weight: 600;
-  font-size: 16px;
+  font-weight: 800;
+  font-size: 32px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 8px 28px;
+  padding: 16px 32px;
   border-radius: 4px;
   transition: 0.5s;
   margin-top: 10px;
